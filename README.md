@@ -1,0 +1,1 @@
+This notebook computes the function signature hash over every combination of possible parameter types and function names provided in an original database (which must be named "base.csv" within this directory), and writes the results (Signature;Hash) to disk in a file named results.csv.
